@@ -1,0 +1,11 @@
+title: Castor — Cast to Any TV
+description: Legal documents and support for Castor
+theme: minima
+author: SensorEvolve
+
+minima:
+  skin: dark
+
+header_pages:
+  - privacy.md
+  - support.md
