@@ -67,4 +67,4 @@ If this policy changes, the updated version will be posted here with a new date.
 
 ## Contact
 
-Questions about this privacy policy? Email us at **carljohan.legert@gmail.com**
+Questions about this privacy policy? Email us at **sensorevolve@gmail.com**
