@@ -34,6 +34,6 @@ Castor uses VLC for local playback and supports virtually all formats. If a file
 
 ## Contact
 
-Not finding the answer you need? Email us at **carljohan.legert@gmail.com**
+Not finding the answer you need? Email us at **sensorevolve@gmail.com**
 
 We aim to respond within 2 business days.
